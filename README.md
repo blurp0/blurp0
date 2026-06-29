@@ -27,6 +27,7 @@ I am an aspiring software developer focused on building practical and scalable a
 **Frameworks & Tools**
 
 * Flask
+* React
 * Flutter
 * Bootstrap
 * Git & GitHub
@@ -64,8 +65,9 @@ I am an aspiring software developer focused on building practical and scalable a
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/blurp0
-* Facebook: https://www.facebook.com/PaLLL3
+* Linkedin: www.linkedin.com/in/jomari-realon-9a0611197
 * Email: realon.jomari99@gmail.com
+* Facebook: https://www.facebook.com/PaLLL3
 
 ---
 
