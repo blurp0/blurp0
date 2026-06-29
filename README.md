@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm blurp0
 
-<!--
-**blurp0/blurp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Developer | Passionate About Building Real-World Systems
 
-Here are some ideas to get you started:
+I am an aspiring software developer focused on building practical and scalable applications. I enjoy working across both frontend and backend, creating systems that solve real problems and improve user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Currently developing full-stack applications
+* 📱 Exploring mobile development using Flutter
+* 🧠 Interested in system design, UI/UX, and backend architecture
+* 🔧 Continuously improving debugging and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* Dart
+* JavaScript
+* HTML & CSS
+
+**Frameworks & Tools**
+
+* Flask
+* Flutter
+* Bootstrap
+* Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Evaluation System
+
+* Built a full-stack system for managing and recording student assessments
+* Implemented subject and section filtering with dynamic grade computation
+* Focused on usability and efficient data handling
+
+### 🐓 Rooster Combat Game (Pygame)
+
+* Developed a game with unique character classes and skill systems
+* Designed combat mechanics, leveling, and inventory systems
+
+### ✍️ Grammar Correction Tool
+
+* Created a context-aware grammar checker using NLP tools
+* Integrated multiple libraries for sentence and paragraph-level correction
+
+---
+
+## 📈 Goals
+
+* Build production-ready applications
+* Contribute to open-source projects
+* Strengthen knowledge in scalable system architecture
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/blurp0
+* Facebook: https://www.facebook.com/PaLLL3
+* Email: realon.jomari99@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex problems into simple, functional solutions.
+
+---
