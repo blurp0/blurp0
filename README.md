@@ -1,4 +1,4 @@
-# 👋 Hi, I'm blurp0
+# 👋 Hi, I'm Blur's TECH
 
 ### Aspiring Developer | Passionate About Building Real-World Systems
 
