@@ -1,78 +1,35 @@
-# 👋 Hi, I'm Blur's TECH
+# Jomari Realon
 
-### Aspiring Developer | Passionate About Building Real-World Systems
+**Full-Stack Developer**
 
-I am an aspiring software developer focused on building practical and scalable applications. I enjoy working across both frontend and backend, creating systems that solve real problems and improve user experience.
-
----
-
-## 🚀 About Me
-
-* 💻 Currently developing full-stack applications
-* 📱 Exploring mobile development using Flutter
-* 🧠 Interested in system design, UI/UX, and backend architecture
-* 🔧 Continuously improving debugging and problem-solving skills
+I build practical, scalable applications with a focus on clean architecture and real-world usability—connecting solid backend systems with intuitive frontend experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages**
-
-* Python
-* Dart
-* JavaScript
-* HTML & CSS
-
-**Frameworks & Tools**
-
-* Flask
-* React
-* Flutter
-* Bootstrap
-* Git & GitHub
+Aspiring software developer focused on creating efficient, maintainable systems. I work across frontend, backend, and mobile, with growing interest in system design and performance.
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 📚 Evaluation System
-
-* Built a full-stack system for managing and recording student assessments
-* Implemented subject and section filtering with dynamic grade computation
-* Focused on usability and efficient data handling
-
-### 🐓 Rooster Combat Game (Pygame)
-
-* Developed a game with unique character classes and skill systems
-* Designed combat mechanics, leveling, and inventory systems
-
-### ✍️ Grammar Correction Tool
-
-* Created a context-aware grammar checker using NLP tools
-* Integrated multiple libraries for sentence and paragraph-level correction
+**Evaluation System** — Full-stack platform with dynamic grading and structured data handling
+**Rooster Combat Game** — Pygame project with combat mechanics, skills, and inventory
+**Grammar Tool** — NLP-based grammar checker with context-aware corrections
 
 ---
 
-## 📈 Goals
+## Goals
 
 * Build production-ready applications
-* Contribute to open-source projects
-* Strengthen knowledge in scalable system architecture
+* Contribute to open source
+* Improve system design skills
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-* GitHub: https://github.com/blurp0
-* Linkedin: www.linkedin.com/in/jomari-realon-9a0611197
-* Email: realon.jomari99@gmail.com
-* Facebook: https://www.facebook.com/PaLLL3
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning complex problems into simple, functional solutions.
-
----
+GitHub: https://github.com/blurp0
+LinkedIn: https://www.linkedin.com/in/jomari-realon-9a0611197
+Email: [realon.jomari99@gmail.com](mailto:realon.jomari99@gmail.com)
