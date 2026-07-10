@@ -15,7 +15,9 @@ Aspiring software developer focused on creating efficient, maintainable systems.
 ## Projects
 
 **Evaluation System** - Full-stack platform with dynamic grading and structured data handling
+
 **Rooster Combat Game** - Pygame project with combat mechanics, skills, and inventory
+
 **Grammar Tool** - NLP-based grammar checker with context-aware corrections
 
 ---
