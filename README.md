@@ -33,5 +33,9 @@ Aspiring software developer focused on creating efficient, maintainable systems.
 ## Connect
 
 GitHub: https://github.com/blurp0
+
 LinkedIn: https://www.linkedin.com/in/jomari-realon-9a0611197
+
 Email: [realon.jomari99@gmail.com](mailto:realon.jomari99@gmail.com)
+
+Portfolio: https://jomarirealonportfolio.netlify.app/
