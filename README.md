@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**
 
-I build practical, scalable applications with a focus on clean architecture and real-world usability—connecting solid backend systems with intuitive frontend experiences.
+I build practical, scalable applications with a focus on clean architecture and real-world usability connecting solid backend systems with intuitive frontend experiences.
 
 ---
 
@@ -14,9 +14,9 @@ Aspiring software developer focused on creating efficient, maintainable systems.
 
 ## Projects
 
-**Evaluation System** — Full-stack platform with dynamic grading and structured data handling
-**Rooster Combat Game** — Pygame project with combat mechanics, skills, and inventory
-**Grammar Tool** — NLP-based grammar checker with context-aware corrections
+**Evaluation System** - Full-stack platform with dynamic grading and structured data handling
+**Rooster Combat Game** - Pygame project with combat mechanics, skills, and inventory
+**Grammar Tool** - NLP-based grammar checker with context-aware corrections
 
 ---
 
